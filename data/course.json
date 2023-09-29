@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "9f56dfc8-22db-154f-df67-d90a56ac2725",
+  "instructors": {
+    "content": [
+      "dbdcb54d-58af-6ac7-ed89-73086fa9e82f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dde7a20e-f5a7-de59-cfa8-e0e9423f4d44",
+    "website": "8-09-classical-mechanics-iii-fall-2014"
+  },
+  "course_title": "Classical Mechanics III",
+  "course_description": "This course covers Lagrangian and Hamiltonian mechanics, systems with constraints, rigid body dynamics, vibrations, central forces, Hamilton-Jacobi theory, action-angle variables, perturbation theory, and continuous systems. It provides an introduction to ideal and viscous fluid mechanics, including turbulence, as well as an introduction to nonlinear dynamics, including chaos.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.09",
+  "course_image_thumbnail": {
+    "content": "1a042a22-d4d2-b56c-251e-ad22adc6f4fb",
+    "website": "8-09-classical-mechanics-iii-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "8c9372ca-8204-4c28-9928-55798190a282",
+  "site_short_id": "8.09-fall-2014",
+  "title": "Course Metadata"
+}
